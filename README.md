@@ -1,4 +1,4 @@
-![Gifka](resources/github.gif)
+![Gifka](https://github.com/wnkbll/wnkbll/blob/108c6b880a537ddf404fcab0c6d6e7f90e52c047/resources/github.gif)
 
 
 
