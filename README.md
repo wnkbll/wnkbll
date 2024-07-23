@@ -1,4 +1,6 @@
-## Hi there 👋
+![Gifka](resources/github.gif)
+
+
 
 <!--
 **wnkbll/wnkbll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
